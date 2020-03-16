@@ -1,0 +1,22 @@
+{
+  "name": "npm-sub-dependency-packer",
+  "version": "1.0.0",
+  "description": "Allow you to download all the sub dependencies of some npm package as tgz file ",
+  "main": "packer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "npm-remote-ls": "1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elichai123/NPM-Sub-Dependency-Packer.git"
+  },
+  "author": "Elichai Borenstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elichai123/NPM-Sub-Dependency-Packer/issues"
+  },
+  "homepage": "https://github.com/elichai123/NPM-Sub-Dependency-Packer#readme"
+}
