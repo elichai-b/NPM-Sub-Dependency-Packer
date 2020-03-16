@@ -5,6 +5,8 @@ package.json is auto generated so you just install them by `npm install` at the 
 
 # Usage
 `git clone https://github.com/elichai123/NPM-Sub-Dependency-Packer.git &&
-cd NPM-Sub-Dependency-Packer && npm install &&`
-`node packer [NPM package name] [package version - optinal]`
+cd NPM-Sub-Dependency-Packer &&
+npm install &&
+node packer [NPM package name] [package version - optinal]`
+
 Defualt version is latest.  
